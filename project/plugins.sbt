@@ -1,7 +1,7 @@
 addSbtPlugin("de.heikoseeberger"  % "sbt-header"               % "5.3.0" )
 addSbtPlugin("pl.project13.scala" % "sbt-jmh"                  % "0.3.7" )
 addSbtPlugin("com.47deg"          % "sbt-microsites"           % "0.9.7")
-addSbtPlugin("org.scoverage"      % "sbt-scoverage"            % "1.6.0" )
+addSbtPlugin("org.scoverage"      % "sbt-scoverage"            % "1.6.1" )
 addSbtPlugin("org.xerial.sbt"     % "sbt-sonatype"             % "3.8"   )
 addSbtPlugin("com.jsuereth"       % "sbt-pgp"                  % "2.0.0" )
 addSbtPlugin("com.typesafe.sbt"   % "sbt-site"                 % "1.4.0" )
